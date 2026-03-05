@@ -1,0 +1,1 @@
+echo "# AI CODE REVIEW PROJECT" > README.md
